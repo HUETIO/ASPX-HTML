@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/EGACEET vs 1.7/adregistro.aspx" hash="d84febd28" filehash="53701facecfe7763" flags="110000" assembly="App_Web_4x4rzio1" type="ASP.adregistro_aspx">
+    <filedeps>
+        <filedep name="/EGACEET vs 1.7/adregistro.aspx" />
+        <filedep name="/EGACEET vs 1.7/adregistro.aspx.vb" />
+        <filedep name="/EGACEET vs 1.7/principal.master" />
+        <filedep name="/EGACEET vs 1.7/principal.master.vb" />
+    </filedeps>
+</preserve>

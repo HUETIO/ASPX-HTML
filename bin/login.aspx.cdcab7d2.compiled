@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/EGACEET vs 1.7/login.aspx" hash="d84febd28" filehash="238742abdcbfb27a" flags="110000" assembly="App_Web_wbtg3hxd" type="ASP.login_aspx">
+    <filedeps>
+        <filedep name="/EGACEET vs 1.7/login.aspx" />
+        <filedep name="/EGACEET vs 1.7/login.aspx.vb" />
+    </filedeps>
+</preserve>
